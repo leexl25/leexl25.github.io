@@ -23,38 +23,38 @@ class Musics {
   constructor() {
       this.songs = [{
               id: 1,
-              title: '越权访问-崩坏：星穹铁道 - Hanser',
-              singer: '越权访问-崩坏：星穹铁道 - Hanser',
-              songUrl: './songs/1.mp3',
-              imageUrl: './images/songs/1.webp'
+              title: '郝琪力 - 光辉岁月',
+              singer: '郝琪力 - 光辉岁月',
+              songUrl: './songs/郝琪力 - 光辉岁月 [mqms].mp3',
+              imageUrl: './images/songs/1.jpeg'
           },
           {
               id: 2,
-              title: '妄想Reality（翻自 洛天依） - 炎祾',
-              singer: '妄想Reality（翻自 洛天依） - 炎祾',
-              songUrl: './songs/2.mp3',
-              imageUrl: './images/songs/2.webp'
+              title: '刘士鸣 - 可乐 (烟嗓版)',
+              singer: '刘士鸣 - 可乐 (烟嗓版)',
+              songUrl: './songs/刘士鸣 - 可乐 (烟嗓版) [mqms2].mp3',
+              imageUrl: './images/songs/2.jpeg'
           },
     {
               id: 3,
-              title: '人间失宠 - 昔诺',
-              singer: '人间失宠 - 昔诺',
-              songUrl: './songs/3.mp3',
-              imageUrl: './images/songs/3.webp'
+              title: '苗田雨 - 最天使 (Live)',
+              singer: '苗田雨 - 最天使 (Live)',
+              songUrl: './songs/苗田雨 - 最天使 (Live) [mqms].mp3',
+              imageUrl: './images/songs/3.jpeg'
           },
           {
               id: 4,
-              title: '崩坏世界的歌姬 (Movie Ver.) - 小林未郁',
-              singer: '崩坏世界的歌姬 (Movie Ver.) - 小林未郁',
-              songUrl: './songs/4.mp3',
-              imageUrl: './images/songs/4.webp'
+              title: '小右陈柯右 - 你是我的女朋友',
+              singer: '小右陈柯右 - 你是我的女朋友',
+              songUrl: './songs/小右陈柯右 - 你是我的女朋友[weiyun].m4a',
+              imageUrl: './images/songs/4.jpeg'
           },
     {
               id: 5,
-              title: '玛德琳娜电塔 - 花玲',
-              singer: '玛德琳娜电塔 - 花玲',
-              songUrl: './songs/5.mp3',
-              imageUrl: './images/songs/5.webp'
+              title: 'Fyy - 万有引力',
+              singer: 'Fyy - 万有引力',
+              songUrl: './songs/Fyy - 万有引力 [mqms].mp3',
+              imageUrl: './images/songs/5.jpeg'
           },
       ]
   }
